@@ -1,0 +1,984 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:1:1-80:12
+INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:1:1-80:12
+INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:1:1-80:12
+INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:1:1-80:12
+MERGED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:1:1-80:12
+MERGED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-46:12
+MERGED from [:firebase_core] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:file_picker] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:webview_flutter] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:in_app_update] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/in_app_update/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:wakelock] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-29:12
+MERGED from [:video_player] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/8477940a81bdfa819ed8e39fcbf6361d/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/87ee42027af5ec359a84464f5f55623a/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7a050c02589f06f2c570e27673788beb/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e97d4d075fa5037077de57ad1110b08a/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a8dd2b72d6e911e961d833d216b9d840/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/118bd0e35e815841bbc55adb19e7a572/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0a48687fc2546d2a0524b7ac6fe3ed8b/jetified-firebase-dynamic-links-21.0.1/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7c3c39e577b73633fccdd9c499d2e1ac/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/ba0abd5a14b79d42e5b0e7f47a41c2fd/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/89ffd2bd074a9850166f837df7a351a2/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/315470766196807b14d546a583fa4f42/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/12240e74cb8e0c1173f4a51af6609298/jetified-exoplayer-hls-2.14.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/87ea6349f03069d3a171ec6b9e1aa47e/jetified-exoplayer-dash-2.14.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/aff3278669b8ca667c5a76a002b09fa6/jetified-exoplayer-smoothstreaming-2.14.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0745f42b6e6c2221225ab70a69f76fe2/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1cd9ce8d0becaecedb40e24ce1b2de7e/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a52059fe30f8d892893ddb64194f7b97/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f827118adcb7c15e6af899b8c5c25437/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/875eaa59cfb738026dfffb0d6db2123c/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f793e6848ca91024e9af590e4fdbc307/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/de4d94158315b8241e73d35b54290a2b/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.media:media:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/59b0d94238b613cac22e9ade4fd49cd3/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0fef67bcd41fb20f91063496a37d87a8/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a2a8dbe18a1dd13cc20f440091da98fb/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7db566be719afcd27176c269b8fccc2a/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d805fdf4663d9169f95615b2270229d1/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/053980ac2854b700fe6fa5ede401b9ae/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/92a68a55efa8c9c0ce146dc52e3f4d32/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/bd64ee9ec9b9394da815ec387b8991fb/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9880ec1bb4881243d7364a3edb4018f0/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0821ffe83937b155bfd81a5a96444e93/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a45bd960c154bcced09d744a3627795e/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/79b625d7c346e8cd99e41112610cafa7/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/da8548f6b33d0d5c8896e1d6eda227fd/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/db6e4576fea94564effc9ccb25d82e72/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0faaa1d4bd4c9fc9b9fdc33145c8ec45/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/c62302339ad499e4917b59316994a34a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/ab4d5ff69b573cc44e2a72bc6e4a0066/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9baf0c1e467a5e693b4594f9fb373ee8/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4de41746436fa73d561aff56bd25b091/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/c4fb2057c3384e9118bfbe8e04b8fdc0/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b6c543b15416040fccaaee0472e71f48/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/8b42c35361ea5cb788e3f742359a545e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b01071293a1b7ecae267e95f1144cd77/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/32baa9be518b63c024465a6b3eae56a5/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f2d9c0fca97bb112447455b3e8c2b9ac/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/39f09ee5d0996c5e379b9fd367d33335/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/3f482d7d415db800e52577298da4b0cd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d6c3dc7370800d595ac510e19e21278f/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/aeb831b7e1fffd6d25643276bad2fe73/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/3ba3304688d1a3d56d8736ef986a38a6/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/cb05b5d6688a7691b8917045e54ab2b1/jetified-exoplayer-extractor-2.14.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/63e2c2bd2edba2d7f8b56253c586dbb2/jetified-exoplayer-common-2.14.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d51d6e75f453dd984b072285e030ae8a/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f906586da2be0ff18a40f5afb81e6115/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/836a27e2129e3b81a35b8ae81b492f50/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/6936f6e9e192106c04bd510f210937c0/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d4f2a933fdd95649355cfe5aaa53c1f1/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/3bd607d52a38c734bdfbfc3ef71449ef/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/ba37f4a4837786c5497ab15c49307acd/jetified-threetenabp-1.2.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:2:1-46:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/5ca4f6ed52ffd9a5748898766b1179bd/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:1:1-80:12
+		INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:1:1-80:12
+		INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/053980ac2854b700fe6fa5ede401b9ae/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/053980ac2854b700fe6fa5ede401b9ae/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a45bd960c154bcced09d744a3627795e/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a45bd960c154bcced09d744a3627795e/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:5:5-78
+MERGED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0745f42b6e6c2221225ab70a69f76fe2/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0745f42b6e6c2221225ab70a69f76fe2/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/053980ac2854b700fe6fa5ede401b9ae/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/053980ac2854b700fe6fa5ede401b9ae/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a45bd960c154bcced09d744a3627795e/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a45bd960c154bcced09d744a3627795e/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/63e2c2bd2edba2d7f8b56253c586dbb2/jetified-exoplayer-common-2.14.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/63e2c2bd2edba2d7f8b56253c586dbb2/jetified-exoplayer-common-2.14.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:8:5-80
+MERGED from [:file_picker] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_MEDIA_LOCATION
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:9:22-77
+application
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:12:5-57:19
+MERGED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_core] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-27:19
+MERGED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-27:19
+MERGED from [:url_launcher] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7a050c02589f06f2c570e27673788beb/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7a050c02589f06f2c570e27673788beb/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e97d4d075fa5037077de57ad1110b08a/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e97d4d075fa5037077de57ad1110b08a/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a8dd2b72d6e911e961d833d216b9d840/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a8dd2b72d6e911e961d833d216b9d840/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0a48687fc2546d2a0524b7ac6fe3ed8b/jetified-firebase-dynamic-links-21.0.1/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0a48687fc2546d2a0524b7ac6fe3ed8b/jetified-firebase-dynamic-links-21.0.1/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7c3c39e577b73633fccdd9c499d2e1ac/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7c3c39e577b73633fccdd9c499d2e1ac/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1cd9ce8d0becaecedb40e24ce1b2de7e/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1cd9ce8d0becaecedb40e24ce1b2de7e/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a52059fe30f8d892893ddb64194f7b97/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a52059fe30f8d892893ddb64194f7b97/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a2a8dbe18a1dd13cc20f440091da98fb/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a2a8dbe18a1dd13cc20f440091da98fb/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7db566be719afcd27176c269b8fccc2a/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7db566be719afcd27176c269b8fccc2a/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d805fdf4663d9169f95615b2270229d1/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d805fdf4663d9169f95615b2270229d1/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/bd64ee9ec9b9394da815ec387b8991fb/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/bd64ee9ec9b9394da815ec387b8991fb/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9880ec1bb4881243d7364a3edb4018f0/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9880ec1bb4881243d7364a3edb4018f0/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0821ffe83937b155bfd81a5a96444e93/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0821ffe83937b155bfd81a5a96444e93/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/79b625d7c346e8cd99e41112610cafa7/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/79b625d7c346e8cd99e41112610cafa7/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/da8548f6b33d0d5c8896e1d6eda227fd/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/da8548f6b33d0d5c8896e1d6eda227fd/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.6.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b01071293a1b7ecae267e95f1144cd77/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b01071293a1b7ecae267e95f1144cd77/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f906586da2be0ff18a40f5afb81e6115/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f906586da2be0ff18a40f5afb81e6115/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/ba37f4a4837786c5497ab15c49307acd/jetified-threetenabp-1.2.3/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/ba37f4a4837786c5497ab15c49307acd/jetified-threetenabp-1.2.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:15:5-44:19
+MERGED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:15:5-44:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:14:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b01071293a1b7ecae267e95f1144cd77/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:16:9-45
+	android:usesCleartextTraffic
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:15:9-44
+activity#com.example.school_apps.MainActivity
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:17:9-48:20
+	android:launchMode
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:19:13-44
+	android:hardwareAccelerated
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:exported
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:24:13-36
+	android:configChanges
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:21:13-163
+	android:theme
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:usesCleartextTraffic
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:18:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:30:13-33:17
+	android:resource
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:32:15-52
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:31:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:36:27-74
+meta-data#flutter_deeplinking_enabled
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:40:13-90
+	android:value
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:40:67-87
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:40:24-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:inovasidigital.page.link+data:scheme:http+data:scheme:https
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:41:13-47:29
+	android:autoVerify
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:41:28-53
+action#android.intent.action.VIEW
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:43:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:44:17-78
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:44:27-75
+data
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:45:17-88
+	android:host
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:45:46-85
+	android:scheme
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:45:23-45
+meta-data#flutterEmbedding
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:51:9-53:33
+	android:value
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:53:13-30
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:52:13-44
+queries
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:58:5-79:15
+MERGED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-11:15
+MERGED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-11:15
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:60:9-63:18
+intent#action:name:android.intent.action.DIAL+data:scheme:tel
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:65:9-68:18
+action#android.intent.action.DIAL
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:66:13-65
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:66:21-62
+intent#action:name:android.intent.action.SENDTO+data:scheme:smsto
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:70:9-73:18
+action#android.intent.action.SENDTO
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:71:13-67
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:71:21-64
+intent#action:name:android.intent.action.SEND+data:mimeType:*/*
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:75:9-78:18
+action#android.intent.action.SEND
+ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:76:13-65
+	android:name
+		ADDED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml:76:21-62
+uses-sdk
+INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:in_app_update] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/in_app_update/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:in_app_update] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/in_app_update/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/wakelock/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/8477940a81bdfa819ed8e39fcbf6361d/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/8477940a81bdfa819ed8e39fcbf6361d/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/87ee42027af5ec359a84464f5f55623a/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/87ee42027af5ec359a84464f5f55623a/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7a050c02589f06f2c570e27673788beb/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7a050c02589f06f2c570e27673788beb/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e97d4d075fa5037077de57ad1110b08a/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e97d4d075fa5037077de57ad1110b08a/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a8dd2b72d6e911e961d833d216b9d840/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a8dd2b72d6e911e961d833d216b9d840/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/118bd0e35e815841bbc55adb19e7a572/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/118bd0e35e815841bbc55adb19e7a572/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0a48687fc2546d2a0524b7ac6fe3ed8b/jetified-firebase-dynamic-links-21.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0a48687fc2546d2a0524b7ac6fe3ed8b/jetified-firebase-dynamic-links-21.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7c3c39e577b73633fccdd9c499d2e1ac/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7c3c39e577b73633fccdd9c499d2e1ac/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/ba0abd5a14b79d42e5b0e7f47a41c2fd/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/ba0abd5a14b79d42e5b0e7f47a41c2fd/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/89ffd2bd074a9850166f837df7a351a2/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/89ffd2bd074a9850166f837df7a351a2/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/315470766196807b14d546a583fa4f42/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/315470766196807b14d546a583fa4f42/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/12240e74cb8e0c1173f4a51af6609298/jetified-exoplayer-hls-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/12240e74cb8e0c1173f4a51af6609298/jetified-exoplayer-hls-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/87ea6349f03069d3a171ec6b9e1aa47e/jetified-exoplayer-dash-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/87ea6349f03069d3a171ec6b9e1aa47e/jetified-exoplayer-dash-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/aff3278669b8ca667c5a76a002b09fa6/jetified-exoplayer-smoothstreaming-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/aff3278669b8ca667c5a76a002b09fa6/jetified-exoplayer-smoothstreaming-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0745f42b6e6c2221225ab70a69f76fe2/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0745f42b6e6c2221225ab70a69f76fe2/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1cd9ce8d0becaecedb40e24ce1b2de7e/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1cd9ce8d0becaecedb40e24ce1b2de7e/jetified-play-services-measurement-sdk-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a52059fe30f8d892893ddb64194f7b97/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a52059fe30f8d892893ddb64194f7b97/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f827118adcb7c15e6af899b8c5c25437/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f827118adcb7c15e6af899b8c5c25437/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/875eaa59cfb738026dfffb0d6db2123c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/875eaa59cfb738026dfffb0d6db2123c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f793e6848ca91024e9af590e4fdbc307/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f793e6848ca91024e9af590e4fdbc307/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/de4d94158315b8241e73d35b54290a2b/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/de4d94158315b8241e73d35b54290a2b/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.media:media:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/59b0d94238b613cac22e9ade4fd49cd3/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/59b0d94238b613cac22e9ade4fd49cd3/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0fef67bcd41fb20f91063496a37d87a8/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0fef67bcd41fb20f91063496a37d87a8/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a2a8dbe18a1dd13cc20f440091da98fb/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a2a8dbe18a1dd13cc20f440091da98fb/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7db566be719afcd27176c269b8fccc2a/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7db566be719afcd27176c269b8fccc2a/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d805fdf4663d9169f95615b2270229d1/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d805fdf4663d9169f95615b2270229d1/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/053980ac2854b700fe6fa5ede401b9ae/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/053980ac2854b700fe6fa5ede401b9ae/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/92a68a55efa8c9c0ce146dc52e3f4d32/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/92a68a55efa8c9c0ce146dc52e3f4d32/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/bd64ee9ec9b9394da815ec387b8991fb/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/bd64ee9ec9b9394da815ec387b8991fb/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9880ec1bb4881243d7364a3edb4018f0/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9880ec1bb4881243d7364a3edb4018f0/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0821ffe83937b155bfd81a5a96444e93/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0821ffe83937b155bfd81a5a96444e93/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a45bd960c154bcced09d744a3627795e/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a45bd960c154bcced09d744a3627795e/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/79b625d7c346e8cd99e41112610cafa7/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/79b625d7c346e8cd99e41112610cafa7/jetified-play-services-measurement-base-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/da8548f6b33d0d5c8896e1d6eda227fd/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/da8548f6b33d0d5c8896e1d6eda227fd/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/db6e4576fea94564effc9ccb25d82e72/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/db6e4576fea94564effc9ccb25d82e72/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0faaa1d4bd4c9fc9b9fdc33145c8ec45/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0faaa1d4bd4c9fc9b9fdc33145c8ec45/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/c62302339ad499e4917b59316994a34a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/c62302339ad499e4917b59316994a34a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/ab4d5ff69b573cc44e2a72bc6e4a0066/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/ab4d5ff69b573cc44e2a72bc6e4a0066/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9baf0c1e467a5e693b4594f9fb373ee8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9baf0c1e467a5e693b4594f9fb373ee8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4de41746436fa73d561aff56bd25b091/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4de41746436fa73d561aff56bd25b091/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/c4fb2057c3384e9118bfbe8e04b8fdc0/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/c4fb2057c3384e9118bfbe8e04b8fdc0/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b6c543b15416040fccaaee0472e71f48/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b6c543b15416040fccaaee0472e71f48/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/8b42c35361ea5cb788e3f742359a545e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/8b42c35361ea5cb788e3f742359a545e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b01071293a1b7ecae267e95f1144cd77/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b01071293a1b7ecae267e95f1144cd77/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/32baa9be518b63c024465a6b3eae56a5/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/32baa9be518b63c024465a6b3eae56a5/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f2d9c0fca97bb112447455b3e8c2b9ac/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f2d9c0fca97bb112447455b3e8c2b9ac/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/39f09ee5d0996c5e379b9fd367d33335/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/39f09ee5d0996c5e379b9fd367d33335/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/3f482d7d415db800e52577298da4b0cd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/3f482d7d415db800e52577298da4b0cd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d6c3dc7370800d595ac510e19e21278f/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d6c3dc7370800d595ac510e19e21278f/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/aeb831b7e1fffd6d25643276bad2fe73/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/aeb831b7e1fffd6d25643276bad2fe73/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/3ba3304688d1a3d56d8736ef986a38a6/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/3ba3304688d1a3d56d8736ef986a38a6/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/cb05b5d6688a7691b8917045e54ab2b1/jetified-exoplayer-extractor-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/cb05b5d6688a7691b8917045e54ab2b1/jetified-exoplayer-extractor-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/63e2c2bd2edba2d7f8b56253c586dbb2/jetified-exoplayer-common-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/63e2c2bd2edba2d7f8b56253c586dbb2/jetified-exoplayer-common-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d51d6e75f453dd984b072285e030ae8a/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d51d6e75f453dd984b072285e030ae8a/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f906586da2be0ff18a40f5afb81e6115/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/f906586da2be0ff18a40f5afb81e6115/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/836a27e2129e3b81a35b8ae81b492f50/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/836a27e2129e3b81a35b8ae81b492f50/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/6936f6e9e192106c04bd510f210937c0/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/6936f6e9e192106c04bd510f210937c0/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d4f2a933fdd95649355cfe5aaa53c1f1/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d4f2a933fdd95649355cfe5aaa53c1f1/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/3bd607d52a38c734bdfbfc3ef71449ef/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/3bd607d52a38c734bdfbfc3ef71449ef/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/ba37f4a4837786c5497ab15c49307acd/jetified-threetenabp-1.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/ba37f4a4837786c5497ab15c49307acd/jetified-threetenabp-1.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/5ca4f6ed52ffd9a5748898766b1179bd/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/5ca4f6ed52ffd9a5748898766b1179bd/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/053980ac2854b700fe6fa5ede401b9ae/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/053980ac2854b700fe6fa5ede401b9ae/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a45bd960c154bcced09d744a3627795e/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a45bd960c154bcced09d744a3627795e/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-65
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-15:72
+	android:exported
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:permission
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-69
+	android:name
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-22:19
+	android:exported
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-21:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-31:20
+	android:exported
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-30:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:25-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:33:9-37:19
+MERGED from [:firebase_core] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a8dd2b72d6e911e961d833d216b9d840/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a8dd2b72d6e911e961d833d216b9d840/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0a48687fc2546d2a0524b7ac6fe3ed8b/jetified-firebase-dynamic-links-21.0.1/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0a48687fc2546d2a0524b7ac6fe3ed8b/jetified-firebase-dynamic-links-21.0.1/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:66:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:33:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-36:85
+	android:value
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:35:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:39:9-43:38
+	android:authorities
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-88
+	android:exported
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-35
+	android:name
+		ADDED from [:firebase_messaging] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-78
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-106
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-103
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-20:20
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-107
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-19:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:15:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:16:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:18:25-79
+meta-data#com.google.firebase.components:io.flutter.plugins.firebasedynamiclinks.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_dynamic_links] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/firebase_dynamic_links/intermediates/library_manifest/debug/AndroidManifest.xml:12:17-130
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-10:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:9:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-17:47
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-20:55
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-112
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-120
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:22:19-117
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-26:36
+	android:value
+		ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-61
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7a050c02589f06f2c570e27673788beb/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7a050c02589f06f2c570e27673788beb/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7a050c02589f06f2c570e27673788beb/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7a050c02589f06f2c570e27673788beb/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7a050c02589f06f2c570e27673788beb/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/7a050c02589f06f2c570e27673788beb/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:33:13-43:29
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/677ce91be147cfdc113c50decec141ab/jetified-firebase-auth-21.0.5/AndroidManifest.xml:68:17-109
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:28:5-82
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/053980ac2854b700fe6fa5ede401b9ae/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/053980ac2854b700fe6fa5ede401b9ae/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d5983cca95e2f3afec6f3d0a1ce2f1af/jetified-firebase-iid-21.1.0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:32:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/29358e8df29cd19ccf1ea9cfaa4906c4/jetified-firebase-messaging-23.0.5/AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.4] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a8dd2b72d6e911e961d833d216b9d840/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.4] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a8dd2b72d6e911e961d833d216b9d840/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.4] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a8dd2b72d6e911e961d833d216b9d840/jetified-firebase-datatransport-18.1.4/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/e90399388428ff7fe11e9951a67c6bb0/jetified-transport-backend-cct-3.1.5/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9bcc34a4cf24f9c01314070c84759951/jetified-transport-runtime-3.1.5/AndroidManifest.xml:33:13-132
+meta-data#com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar
+ADDED from [com.google.firebase:firebase-dynamic-links:21.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0a48687fc2546d2a0524b7ac6fe3ed8b/jetified-firebase-dynamic-links-21.0.1/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-dynamic-links:21.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0a48687fc2546d2a0524b7ac6fe3ed8b/jetified-firebase-dynamic-links-21.0.1/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:21.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0a48687fc2546d2a0524b7ac6fe3ed8b/jetified-firebase-dynamic-links-21.0.1/AndroidManifest.xml:28:17-133
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0821ffe83937b155bfd81a5a96444e93/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/0821ffe83937b155bfd81a5a96444e93/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a45bd960c154bcced09d744a3627795e/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/a45bd960c154bcced09d744a3627795e/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/4300f61f817d1b0c473c789a962a33a1/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/143d3dd5877b9c7b19d79b1288f8b474/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/22d1798505986622f32ad11c47837912/jetified-firebase-common-20.1.1/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/abfb85ac8b9a06e59131309cd6629945/jetified-play-services-measurement-impl-21.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/9dbd7bc65a91d899ce57804dc92c6e05/jetified-play-services-measurement-21.0.0/AndroidManifest.xml:40:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d805fdf4663d9169f95615b2270229d1/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d805fdf4663d9169f95615b2270229d1/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d805fdf4663d9169f95615b2270229d1/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/d805fdf4663d9169f95615b2270229d1/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/da8548f6b33d0d5c8896e1d6eda227fd/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/da8548f6b33d0d5c8896e1d6eda227fd/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/da8548f6b33d0d5c8896e1d6eda227fd/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:13:22-74
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:18:9-24:45
+	android:process
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:23:13-64
+	android:enabled
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:20:13-36
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:24:13-42
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:22:13-48
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:19:13-100
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:25:9-29:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:28:13-42
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:29:13-62
+	android:name
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:26:13-93
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:32:9-39:19
+	android:enabled
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:34:13-36
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:33:13-94
+meta-data#com.google.android.play.core.assetpacks.versionCode
+ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:36:13-38:41
+	android:value
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:38:17-38
+	android:name
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:37:17-83
+service#com.google.android.play.core.assetpacks.ExtractionForegroundService
+ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:40:9-43:40
+	android:enabled
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:42:13-36
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [com.google.android.play:core:1.10.3] /Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/1aab96dfcdc871f19d60b833d700f7a6/jetified-core-1.10.3/AndroidManifest.xml:41:13-95

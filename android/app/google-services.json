@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "962168466841",
+    "project_id": "edsy--push-materitugas",
+    "storage_bucket": "edsy--push-materitugas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962168466841:android:a8b5912c5820ae1f877708",
+        "android_client_info": {
+          "package_name": "com.edsy.school_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962168466841-5es1qrq1ma6i4vej8u0e2nb79abismlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARLAEhFFOiB0JIMXQys5Ra2HtfUauXfzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962168466841-5es1qrq1ma6i4vej8u0e2nb79abismlo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962168466841-5mv2fk4tju1vj22l19o9t1ge2jbm4ct6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.schoolApps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/path_provider/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b01071293a1b7ecae267e95f1144cd77/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/path_provider/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b01071293a1b7ecae267e95f1144cd77/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/path_provider/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b01071293a1b7ecae267e95f1144cd77/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/dwiromadon/Documents/My Project/Flutter Project/Edsy Marcow/Edsy_MangDwi/Edsy-LMS/build/path_provider/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/dwiromadon/.gradle/caches/transforms-2/files-2.1/b01071293a1b7ecae267e95f1144cd77/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]
