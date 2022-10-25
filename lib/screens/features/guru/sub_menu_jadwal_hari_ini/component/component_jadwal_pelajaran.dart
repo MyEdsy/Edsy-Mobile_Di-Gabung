@@ -18,7 +18,7 @@ import 'package:http/http.dart' as http;
 
 import '../../../../../main.dart';
 import '../../home_guru.dart';
-
+//untuk di gabung
 class JadwalPelajaran extends StatefulWidget {
   @override
   _SignFormState createState() => _SignFormState();

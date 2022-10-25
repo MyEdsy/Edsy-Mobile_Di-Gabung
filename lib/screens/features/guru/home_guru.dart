@@ -18,7 +18,7 @@ import '../../../constants.dart';
 import '../../../main.dart';
 import 'jadwal_pelajaran_guru/jadwal_pelajaran_guru_screen.dart';
 import 'menu_pembelajaran/menu_pembelajaran_screens.dart';
-
+//untuk gigabung
 class HomeGuru extends StatefulWidget {
   static String routeName = "/home_menu_guru";
   @override

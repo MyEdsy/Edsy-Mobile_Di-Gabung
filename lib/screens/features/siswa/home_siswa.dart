@@ -29,7 +29,7 @@ class HomeSiswa extends StatefulWidget {
   @override
   _HomeSiswa createState() => _HomeSiswa();
 }
-
+//untuk di gabung
 class _HomeSiswa extends State<HomeSiswa> {
   var isLoading = false, showNavi = false;
   var responseJson, dataTahunAjaran;
